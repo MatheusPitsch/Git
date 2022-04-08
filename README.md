@@ -38,6 +38,7 @@ O fluxo do Git passa por 3 etapas, sendo a primeira a criação ou modificação
 * Code . -> Usado para abrir o VisualCode pelo Git.
 
 **Referências:**
+
 (https://git-scm.com/book/en/v2)
 
 (https://www.youtube.com/watch?v=2alg7MQ6_sI&t=533s)
