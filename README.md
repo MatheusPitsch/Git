@@ -2,15 +2,10 @@
 
 Esse repositório tem por finalidade armazenar informações sobre o Git. 
 
-<p align="center">
- <a href="#Oque é Git?">Oque é Git?</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
-
+* [Oque é Git?](#Oque-é-Git?)
+* [Fluxo do Git](#Fluxo-do-Git)
+* [Comandos](#Comandos)
+* [Referências](#Referências)
 
 
 **Oque é Git?**
