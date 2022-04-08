@@ -2,7 +2,13 @@
 
 Esse repositório tem por finalidade armazenar informações sobre o Git. 
 
-* [Oque é Git?](#Oque-é-Git?) [Fluxo do Git](#Fluxo-do-Git) [Comandos](#Comandos) [Referências](#Referências)
+<p align="center">
+ <a href="#Oque é Git?">Oque é Git?</a> •
+ <a href="#Fluxo do Git">Fluxo do Git</a> • 
+ <a href="#Comandos">Comandos</a> • 
+ <a href="#Referências">Referências</a> • 
+</p>
+
 
 
 **Oque é Git?**
