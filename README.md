@@ -13,11 +13,11 @@ Esse repositório tem por finalidade armazenar informações sobre o Git.
 
 **Oque é Git?**
 
-Git é um sistema com diversas finalidades, uma delas é poder voltar em versões antigas do repositório, criar novas ramificações que não interfere no repositório principal, sendo também uma feramente de trabalho em equipe, onde diversas pessoas podem trabalhar no repositório simultaneamente.
+* Git é um sistema com diversas finalidades, uma delas é poder voltar em versões antigas do repositório, criar novas ramificações que não interfere no repositório principal, sendo também uma feramente de trabalho em equipe, onde diversas pessoas podem trabalhar no repositório simultaneamente.
 
 **Fluxo do Git**
 
-O fluxo do Git passa por 3 etapas, sendo a primeira a criação ou modificação de um repositório (init), após escolher qual modificação que irá para o repositório principal (add), por fim levar a alteração até o repositório principal (commit).
+* O fluxo do Git passa por 3 etapas, sendo a primeira a criação ou modificação de um repositório (init), após escolher qual modificação que irá para o repositório principal (add), por fim levar a alteração até o repositório principal (commit).
 
 **Comandos:**
 
