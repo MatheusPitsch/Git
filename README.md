@@ -1,2 +1,3 @@
-# https://github.com/MatheusPitsch/Git/issues/1#issue-1196693496
+# ![Git](https://user-images.githubusercontent.com/101012809/162340613-57d449d2-f730-4abd-80c3-7680fe55457a.png)
+
 Esse repositório tem por finalidade guardar informações estudadas sobre o Git.
