@@ -34,11 +34,3 @@ Esse repositório tem por finalidade armazenar informações sobre o Git.
 * Git Push* -> Usado para enviar as alterações do arquivo para nuvem.
 * Git Pull* -> Usado para trazer atualizações da nuvem para o repositório local.
 * Code . -> Usado para abrir o VisualCode pelo Git.
-
-**Referências:**
-
-(https://git-scm.com/book/en/v2)
-
-(https://www.youtube.com/watch?v=2alg7MQ6_sI&t=533s)
-
-(https://www.youtube.com/watch?v=kB5e-gTAl_s)
