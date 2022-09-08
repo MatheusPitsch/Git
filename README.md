@@ -17,7 +17,7 @@ Esse repositório tem por finalidade armazenar informações sobre o Git.
 
 **Fluxo do Git**
 
-* O fluxo do Git passa por 3 etapas, sendo a primeira a criação ou modificação de um repositório (init), após escolher qual modificação que irá para o repositório principal (add), por fim levar a alteração até o repositório principal (commit).
+* O fluxo do Git passa por 3 etapas, sendo a primeira a criação ou modificação de um repositório, após a modificação você adiciona ela na branche e por fim levar a alteração até o repositório principal.
 
 **Comandos:**
 
