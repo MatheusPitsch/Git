@@ -46,3 +46,5 @@
 * Oque é? » Um Pull Requests serve para que antes de você colocar o seu código que está em outra branch na branch master, ele possa passar por um forum, aonde as pessoas poderão comentar no seu código e sugerir alterações a serem feitas 
 
 * Como fazer?
+
+ ![](https://user-images.githubusercontent.com/101012809/190465613-b89e934b-3748-4282-a65a-82c9fdb737e3.png)
