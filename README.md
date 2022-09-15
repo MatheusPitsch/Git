@@ -51,17 +51,18 @@
 
  ![](https://user-images.githubusercontent.com/101012809/190465613-b89e934b-3748-4282-a65a-82c9fdb737e3.png)
  
-    Aqui você escolhera qual branches você que fazer a comparação e depois clicara em Create PR.
+    Aqui você escolhera qual branches serão comparadas, em seguida clicara em Create PR.
 
  ![](https://user-images.githubusercontent.com/101012809/190465904-ff480fda-6fbd-4ce3-82b6-3c90f813b003.png)
     
-    1 » Você colocara um título para o seu pull request.
-    2 » Você colocara uma descrição do oque o seu código está fazendo.
+    1 » Coloque um título para o seu pull request.
+    2 » Adicione uma descrição descrevendo oque o seu código executa.
     3 » Clique no botão para criar o seu pull request.
 
  ![](https://user-images.githubusercontent.com/101012809/190466114-a5fa01c0-f99b-4de4-858d-e33b43946518.png)
 
     Nessa última parte você vera os comentários e sugestões que as pessoas fizeram no seu código.
+    Assim que finalzado a revisão você pode fazer um marge. 
 
  ![](https://user-images.githubusercontent.com/101012809/190466341-b4d5e2aa-a6e1-4468-a104-bffd28778570.png)
 
