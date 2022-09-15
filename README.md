@@ -34,3 +34,17 @@ Esse repositório tem por finalidade armazenar informações sobre o Git.
 * Git Push* -> Usado para enviar as alterações do arquivo para nuvem.
 * Git Pull* -> Usado para trazer atualizações da nuvem para o repositório local.
 * Code . -> Usado para abrir o VisualCode pelo Git.
+
+* Git init -> Usado para iniciar um projeto, criando um repositório.
+* Git add -> Usado para escolher qual modificação ira para seu arquivo principal.
+* Git Commit -m "" -> Para levar a modificação até seu repositório. 
+* Git Log -> Usado para mostrar as alterações que foram feitas no repositório.
+* Git Status -> Usado para informar o estado da alteração do nosso projeto.
+* Git Show <N° do commit> -> Usado para observar o que foi feito no commit. (Comando Git Show sem N° mostra o último commit feito)
+* Git Branch <Nome> -> Usado para cria uma nova ramificação. (Git Branch -D <Nome da Branch> Você exclui a Branch.)
+* Git Checkout <Nome da Branch> -> Usado para entrar dentro de uma ramificação. 
+* Git Merge* <Nome da Branch> -> Usado para adicionar a ramificação ao arquivo principal.
+* Git Remote* add origin <Link do repositório no Github> -> Usado para alocar o repositório na nuvem. (Github)
+* Git Push* -> Usado para enviar as alterações do arquivo para nuvem.
+* Git Pull* -> Usado para trazer atualizações da nuvem para o repositório local.
+* Code . -> Usado para abrir o VisualCode pelo Git.
