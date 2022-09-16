@@ -9,41 +9,37 @@
 </p>
 
 
-**Oque é Git?**
+**O que é Git?**
 
-* Git é um sistema com diversas finalidades, uma delas é poder voltar em versões antigas do repositório, criar novas ramificações que não interfere no repositório principal, sendo também uma ferramente de trabalho em equipe, onde diversas pessoas podem trabalhar no repositório simultaneamente.
-
-**Fluxo do Git**
-
-* O fluxo do Git passa por 3 etapas, sendo a primeira a criação ou modificação de um repositório, após a modificação você adiciona ela na branche e por fim levar a alteração até o repositório principal.
+* Git é ser um sistema de controle e organização que armazena e revisa projetos.
 
 **Principais Comandos:**
 
-* Git add » Usado para escolher qual modificação ira para seu arquivo principal.
+* Git add » Usado para escolher uma ou mais modificações que irão para a repositório.
 
 * Git Commit -m "" » Cria um comentário e leva a modificação até seu repositório. 
 
+* Git Push » Envia as alterações do arquivo para nuvem.
+
 * Git Branch -b  » Cria uma nova branch.
 
-* Git checkout  » Navega entre as branch.
+* Git checkout  » Navega entre as branches.
 
-* Git Push* » Envia as alterações do arquivo para nuvem.
-
-* Git Pull* » Traz atualizações da nuvem para o repositório local.
+* Git Pull » Traz atualizações da nuvem para o repositório local.
 
 **Comando Úteis:**
 
-* Git Clone » Copiar um repositório da nuvem.
+* Git Clone » Faz a copia de um repositório da nuvem.
 
 * Git commit --amend » Edita o commit se ainda não enviado para a nuvem.
 
 * Git Branch -d  » Exclui a branch.
 
-* Git Status » Informa o estado da alteração do nosso projeto.
+* Git Status » Informa o estado das alterações do nosso projeto.
 
 **Pull Request**
 
-* Oque é? » Um Pull Requests serve para que antes de você colocar o seu código que está em outra branch na branch master, ele possa passar por um forum, aonde as pessoas poderão comentar no seu código e sugerir alterações a serem feitas 
+* Oque é? » Um Pull Requests serve para que antes de você colocar o seu código que está em outra branch na branch master, ele possa passar por um fórum, aonde as pessoas poderão comentar no seu código e sugerir alterações a serem feitas.
 
 * Como fazer?
   
@@ -55,14 +51,14 @@
 
  ![](https://user-images.githubusercontent.com/101012809/190465904-ff480fda-6fbd-4ce3-82b6-3c90f813b003.png)
     
-    1 » Coloque um título para o seu pull request.
+    1 » Coloque um título para o seu pull requests.
     2 » Adicione uma descrição descrevendo oque o seu código executa.
-    3 » Clique no botão para criar o seu pull request.
+    3 » Clique no botão para criar o seu pull requests.
 
- ![](https://user-images.githubusercontent.com/101012809/190466114-a5fa01c0-f99b-4de4-858d-e33b43946518.png)
+ ![](https://user-images.githubusercontent.com/101012809/190529740-3bb8cb81-f59e-4c42-b6a2-b8dce332d43e.png)
 
-    Nessa última parte você vera os comentários e sugestões que as pessoas fizeram no seu código.
-    Assim que finalzado a revisão você pode fazer um marge. 
+    Nessa última parte você vera os comentários e sugestões que as pessoas fizeram no seu código,
+    assim que finalzado a revisão você pode fazer um marge. 
 
  ![](https://user-images.githubusercontent.com/101012809/190466341-b4d5e2aa-a6e1-4468-a104-bffd28778570.png)
 
