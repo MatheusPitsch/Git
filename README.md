@@ -2,7 +2,6 @@
 
 <p align="center">
  <a href="#Oque é Git?">Oque é Git?</a> •
- <a href="#Fluxo do Git">Fluxo do Git</a> • 
  <a href="#Principais Comandos">Principais Comandos</a> • 
  <a href="#Comando Úteis">Comando Úteis</a> • 
  <a href="#Pull Request">Pull Request</a> • 
