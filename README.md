@@ -38,7 +38,7 @@
 
 **Pull Request**
 
-* Oque é? » Um Pull Requests serve para que antes de você colocar o seu código que está em outra branch na branch master, ele possa passar por um fórum, aonde as pessoas poderão comentar no seu código e sugerir alterações a serem feitas.
+* Oque é? » Um Pull Requests serve para que antes de você colocar o seu código que está em outra branch na branch main, ele possa passar por um fórum, onde as pessoas poderão comentar no seu código e sugerir alterações a serem feitas.
 
 * Como fazer?
   
